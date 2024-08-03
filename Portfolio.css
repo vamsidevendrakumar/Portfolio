@@ -1,0 +1,11 @@
+:root {
+  --deep-navy: #222831;
+  --teal-accent: #00adb5;
+  --off-white: #eeeeee;
+  --light-gray: #cfd2cf;
+  --teal-accent-light: #305a5d9e;
+  --teal-accent-text: #3b7e82;
+}
+html {
+  scroll-behavior: smooth;
+}
